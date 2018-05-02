@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-180502-sa-prep2</string>
+
+    <string name="btnShowList">Liste anzeigen</string>
+    <string name="btnSave">Person speichern</string>
+
+</resources>
